@@ -1,0 +1,8 @@
+[package]
+name = "Gemspark"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+nom = "6.2.1"
+byteorder = "1.0.0"
