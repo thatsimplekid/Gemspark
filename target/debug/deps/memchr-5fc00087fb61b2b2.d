@@ -1,0 +1,13 @@
+/home/owen/Projects/Gemspark/target/debug/deps/memchr-5fc00087fb61b2b2.rmeta: /home/owen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/lib.rs /home/owen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/fallback.rs /home/owen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/iter.rs /home/owen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/naive.rs /home/owen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/mod.rs /home/owen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/avx.rs /home/owen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/sse2.rs
+
+/home/owen/Projects/Gemspark/target/debug/deps/libmemchr-5fc00087fb61b2b2.rlib: /home/owen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/lib.rs /home/owen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/fallback.rs /home/owen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/iter.rs /home/owen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/naive.rs /home/owen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/mod.rs /home/owen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/avx.rs /home/owen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/sse2.rs
+
+/home/owen/Projects/Gemspark/target/debug/deps/memchr-5fc00087fb61b2b2.d: /home/owen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/lib.rs /home/owen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/fallback.rs /home/owen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/iter.rs /home/owen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/naive.rs /home/owen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/mod.rs /home/owen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/avx.rs /home/owen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/sse2.rs
+
+/home/owen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/lib.rs:
+/home/owen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/fallback.rs:
+/home/owen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/iter.rs:
+/home/owen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/naive.rs:
+/home/owen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/mod.rs:
+/home/owen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/avx.rs:
+/home/owen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/sse2.rs:
