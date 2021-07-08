@@ -5,4 +5,5 @@ edition = "2018"
 
 [dependencies]
 nom = "6.2.1"
+hex = "0.3.0"
 libmath = "0.2.1"
